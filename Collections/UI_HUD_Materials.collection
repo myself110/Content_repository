@@ -1,0 +1,10 @@
+FileVersion:2
+Type:Static
+Guid:D87825CB-4449-A435-27D4-A7B769C49611
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Mars2030/Materials/HUD/M_UseIcon_Placeholder.M_UseIcon_Placeholder
+/Game/Mars2030/UI/Dev/M_UI_Message.M_UI_Message
+/Game/Mars2030/UI/Dev/MI_UI_MainMenu.MI_UI_MainMenu
+/Game/Mars2030/UI/Dev/MI_UI_Message.MI_UI_Message
+/Game/Mars2030/UI/Dev/MI_UI_Message_Stereo.MI_UI_Message_Stereo

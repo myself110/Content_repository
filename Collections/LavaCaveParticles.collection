@@ -1,0 +1,12 @@
+FileVersion:2
+Type:Static
+Guid:A51EE0CF-4B7C-E3AD-A242-7489BBE2E319
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Elemental/Effects/Fx_Magic/Effects/FX_Knight_Back2.FX_Knight_Back2
+/Game/Elemental/Effects/Fx_Magic/Effects/FX_Knight_Hammer_Embers2.FX_Knight_Hammer_Embers2
+/Game/Elemental/Environment/Lava_Assets/Effects/FX_LavaImpact_01.FX_LavaImpact_01
+/Game/Elemental/Environment/Lava_Assets/Effects/FX_LavaImpact_02.FX_LavaImpact_02
+/Game/Elemental/Environment/Lava_Assets/Effects/P_LavaFire_01.P_LavaFire_01
+/Game/Elemental/Environment/Lava_Assets/Effects/P_LavaFire_02.P_LavaFire_02
+/Game/Elemental/Environment/Lava_Assets/Effects/P_LavaFlowTip_02.P_LavaFlowTip_02

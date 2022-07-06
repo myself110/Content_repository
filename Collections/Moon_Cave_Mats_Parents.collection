@@ -1,0 +1,13 @@
+FileVersion:2
+Type:Static
+Guid:4DFA1E34-45F0-E06A-3F54-4790B8342574
+ParentGuid:C16BAF9B-4ED2-A1C4-CEBB-6D859CE41E7E
+
+/Game/Mars2030/Environment/Buttes/Materials/M_Buttes_Dust.M_Buttes_Dust
+/Game/Mars2030/Environment/Krzys/Materials/Master_Rock.Master_Rock
+/Game/Mars2030/Environment/Krzys/Materials/Master_Rock_Dusted.Master_Rock_Dusted
+/Game/Mars2030/Environment/Rocks/Materials/M_Rocks_BDE.M_Rocks_BDE
+/Game/Mars2030/Environment/Rocks/Materials/M_Rocks_GradientMap_Detail.M_Rocks_GradientMap_Detail
+/Game/Mars2030/Environment/Rocks/Materials/M_Rocks_GradientMapping.M_Rocks_GradientMapping
+/Game/Mars2030/Environment/Rocks/Materials/M_Rocks_NoSpecular.M_Rocks_NoSpecular
+/Game/Mars2030/Specimens/M_Specimens.M_Specimens

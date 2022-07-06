@@ -1,0 +1,17 @@
+FileVersion:2
+Type:Static
+Guid:0DE36066-4DFB-6A3D-B799-ED9D2D9C6DD7
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Mars2030/Foliage/FoliageTypes/Fracture/FT_Fracture_A.FT_Fracture_A
+/Game/Mars2030/Foliage/FoliageTypes/Fracture/FT_Fracture_B.FT_Fracture_B
+/Game/Mars2030/Foliage/FoliageTypes/Fracture/FT_Fracture_D.FT_Fracture_D
+/Game/Mars2030/Foliage/FoliageTypes/Fracture/FT_Fracture_E.FT_Fracture_E
+/Game/Mars2030/Foliage/FoliageTypes/Fracture/FT_Fracture_Side_B.FT_Fracture_Side_B
+/Game/Mars2030/Foliage/FoliageTypes/HeavyGeometry/FT_CrossBed_A_B.FT_CrossBed_A_B
+/Game/Mars2030/Foliage/FoliageTypes/HeavyGeometry/FT_Masssing_Scarp_A.FT_Masssing_Scarp_A
+/Game/Mars2030/Foliage/FoliageTypes/HeavyGeometry/FT_Masssing_Scarp_A_Dtl.FT_Masssing_Scarp_A_Dtl
+/Game/Mars2030/Foliage/FoliageTypes/HeavyGeometry/FT_Masssing_Scarp_B.FT_Masssing_Scarp_B
+/Game/Mars2030/Foliage/FoliageTypes/HeavyGeometry/FT_Masssing_Scarp_B_Dtl.FT_Masssing_Scarp_B_Dtl
+/Game/Mars2030/Foliage/FoliageTypes/HeavyGeometry/FT_Masssing_Scarp_C.FT_Masssing_Scarp_C
+/Game/Mars2030/Foliage/FoliageTypes/HeavyGeometry/FT_Masssing_Scarp_C_Dtl.FT_Masssing_Scarp_C_Dtl

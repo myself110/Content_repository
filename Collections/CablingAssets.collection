@@ -1,0 +1,9 @@
+FileVersion:2
+Type:Static
+Guid:4D3E3A9E-4D5E-3725-574F-9EB6E041975A
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/cables/spline_cables/cable_medium/cable_mesh_black.cable_mesh_black
+/Game/cables/spline_cables/cable_small/cable_mesh_small.cable_mesh_small
+/Game/Mars2030/Meshes/Habitat_WIP/Powerstation/SM_PowerStationB.SM_PowerStationB
+/Game/Mars2030/Meshes/Habitat_WIP/Powerstation/SM_PowerStationC.SM_PowerStationC

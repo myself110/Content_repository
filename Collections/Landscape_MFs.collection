@@ -1,0 +1,10 @@
+FileVersion:2
+Type:Static
+Guid:DFC2C623-4EEE-6218-C9C2-AA9F32D359D0
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Mars2030/Maps/Development/Stina/Landscape/Material/Experimental/Sand/MF_Sand.MF_Sand
+/Game/Mars2030/Maps/Development/Stina/Landscape/Material/MatLayerBlend/MF_LandscapeMaterial_FarTiling.MF_LandscapeMaterial_FarTiling
+/Game/Mars2030/Maps/Development/Stina/Landscape/Material/MatLayerBlend/MF_LandscapeMaterial_Triplanar.MF_LandscapeMaterial_Triplanar
+/Game/Mars2030/Maps/Development/Stina/Landscape/Material/MatLayerBlend/MF_SoilLandscape.MF_SoilLandscape
+/Game/Mars2030/Maps/Development/Stina/Landscape/Material/MF_SandRockBlend_Simple.MF_SandRockBlend_Simple
